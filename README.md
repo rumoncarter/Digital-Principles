@@ -1,3 +1,5 @@
+# Principles for Digital BC
+
 British Columbia's approach to Digital Government is a work-in-progress, the initial framework for which has been set out at https://digital.gov.bc.ca/. What follows is a draft set of principles - fundamental propositions - intended to serve as the foundation for a system of behaviors to guide the work of the Digital BC community.
 
 These principles have been drafted by members of the Digital & Data Division in the BC Public Service, borrowing heavily from similar principles produced by other public jurisdictions. The intent is that they be moved to their own repository on https://github.com/bcgov/, shared for feedback across the community, and eventually included on https://digital.gov.bc.ca/. 
@@ -9,7 +11,7 @@ These Digital Principles are envisioned to be part of an interconnected set of g
 * A new (DRAFT) Service Standard <link>, intended to guide internet era teams to create and run great public services, no matter the channel through which those services are delivered (i.e. whether digital or not); and
 * For those using technology, a new (DRAFT) Technology Code of Practice <link>, a set of criteria to help government design, build and buy technology. This Code of Practice is intended to be used as a cross-government agreed standard as part of the in-development spend controls process for the development of new digital (IMIT) products and services.
 
-## Draft Principles for Digital BC
+## Draft Principles
 
 ### 1.       Prioritize delivering impact for British Columbians
 Government exists to improve peoples’ lives. Digital services should support this goal. Focus on citizens’ needs; build services for outcomes rather than outputs; deliver sustainable services through judicious use of public resources.
