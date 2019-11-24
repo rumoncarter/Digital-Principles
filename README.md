@@ -1,6 +1,6 @@
 The following are offered as a DRAFT set of principles to guide the work and behaviour of the Digital BC community.
 
-These principles have been drafted by BC's Chief Digital Officer, borrowing heavily from principles produced by other public jurisdictions. The intent is that they be moved to their own repository on https://github.com/bcgov/, for eventual inclusion on https://digital.gov.bc.ca/. 
+These principles have been drafted by members of the Digital & Data Division in the BC Public Service, borrowing heavily from principles produced by other public jurisdictions. The intent is that they be moved to their own repository on https://github.com/bcgov/, shared for feedback across the community, and eventually included on https://digital.gov.bc.ca/. 
 
 ## Draft Principles for Digital BC
 
