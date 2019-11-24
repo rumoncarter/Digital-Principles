@@ -39,5 +39,5 @@ Respect security, privacy and ethics, balancing them with the imperative for swi
 Empower all public servants to deliver excellent digital services; support teams, providing them with technology, tools and training; encourage innovation and controlled experimentation; build an organizational culture that supports constant learning.
 
 ### 10.      Express cultural & historical awareness & respect
-Acknowledge the historical relationships, inequity, trauma, and discrimination created by government; work in the spirit of reconciliation and [B.C.’s Draft Principles guiding our relationship with Indigenous peoples] (https://www2.gov.bc.ca/assets/gov/careers/about-the-bc-public-service/diversity-inclusion-respect/draft_principles.pdf).
+Acknowledge the historical relationships, inequity, trauma, and discrimination created by government; work in the spirit of reconciliation and [B.C.’s Draft Principles guiding our relationship with Indigenous peoples] (https://www2.gov.bc.ca/assets/gov/careers/about-the-bc-public-service/diversity-inclusion-respect/draft_principles.pdf). 
 
