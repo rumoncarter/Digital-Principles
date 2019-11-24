@@ -4,6 +4,8 @@ British Columbia's approach to Digital Government is a work-in-progress, the ini
 
 These principles have been drafted by members of the Digital & Data Division in the BC Public Service, borrowing heavily from similar principles produced by other public jurisdictions. The intent is that they be moved to their own repository on https://github.com/bcgov/, shared for feedback across the community, and eventually included on https://digital.gov.bc.ca/. 
 
+## Digital Principles in Context
+
 These Digital Principles are envisioned to be part of an interconnected set of guidance and standards for all BC Public Service employees engaged in applying the culture, processes, business models and technology of the internet era to meeting the needs and expectations of the people of British Columbia: 
 
 * Our British Columbia Public Service Oath of Employment (https://www2.gov.bc.ca/assets/gov/careers/managers-supervisors/managing-employee-labour-relations/oath_of_employment.pdf) and Standards of Conduct (https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct);
