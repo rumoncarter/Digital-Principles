@@ -10,8 +10,8 @@ These Digital Principles are envisioned to be part of an interconnected set of g
 
 * Our British Columbia Public Service Oath of Employment (https://www2.gov.bc.ca/assets/gov/careers/managers-supervisors/managing-employee-labour-relations/oath_of_employment.pdf) and Standards of Conduct (https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct);
 * These (DRAFT) Digital Principles, which explicitly incorporate the [Draft Principles that Guide the Province of British Columbia's Relationship with Indigenous Peoples] (https://www2.gov.bc.ca/assets/gov/careers/about-the-bc-public-service/diversity-inclusion-respect/draft_principles.pdf); 
-* A new (DRAFT) Service Standard <link>, intended to guide internet era teams to create and run great public services, no matter the channel through which those services are delivered (i.e. whether digital or not); and
-* For those using technology, a new (DRAFT) Technology Code of Practice <link>, a set of criteria to help government design, build and buy technology. This Code of Practice is intended to be used as a cross-government agreed standard as part of the in-development spend controls process for the development of new digital (IMIT) products and services.
+* A new, in-development Service Standard, intended to guide internet era teams to create and run great public services, no matter the channel through which those services are delivered (i.e. whether digital or not); and
+* For those using technology, a new in-development Technology Code of Practice <link>, a set of criteria to help government design, build and buy technology. This Code of Practice is intended to be used as a cross-government agreed standard for the development of new digital (IMIT) products and services.
 
 ## Draft Principles
 
@@ -43,5 +43,5 @@ Respect security, privacy and ethics, balancing them with the imperative for swi
 Empower all public servants to deliver excellent digital services; support teams, providing them with technology, tools and training; encourage innovation and controlled experimentation; build an organizational culture that supports constant learning.
 
 ### 10.      Express cultural & historical awareness & respect
-Acknowledge the historical relationships, inequity, trauma, and discrimination created by government; work in the spirit of reconciliation and [B.C.’s Draft Principles guiding our relationship with Indigenous peoples] (https://www2.gov.bc.ca/assets/gov/careers/about-the-bc-public-service/diversity-inclusion-respect/draft_principles.pdf). 
+Acknowledge the historical relationships, inequity, trauma, and discrimination created by government; work in the spirit of reconciliation and B.C.’s Draft Principles guiding our relationship with Indigenous peoples (https://www2.gov.bc.ca/assets/gov/careers/about-the-bc-public-service/diversity-inclusion-respect/draft_principles.pdf). 
 
